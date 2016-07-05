@@ -1,0 +1,32 @@
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.exe
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.pdb
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Form1.resources
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Properties.Resources.resources
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csproj.GenerateResource.Cache
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.exe
+c:\users\av\documents\visual studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.pdb
+C:\Users\AV\Documents\Visual Studio 2010\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.exe
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.pdb
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.exe
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.pdb
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csprojResolveAssemblyReference.cache
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Form1.resources
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Properties.Resources.resources
+F:\Programming\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csproj.GenerateResource.Cache
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.exe
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.pdb
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.exe
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.pdb
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csprojResolveAssemblyReference.cache
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Form1.resources
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Properties.Resources.resources
+C:\Users\Babuwka\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csproj.GenerateResource.Cache
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.exe
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.pdb
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.exe
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\bin\Debug\VLCTranslationsCounter.pdb
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csprojResolveAssemblyReference.cache
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Form1.resources
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.Properties.Resources.resources
+C:\Users\Ezekotiki\Documents\Visual Studio 2015\Projects\VLCTranslationsCounter\VLCTranslationsCounter\obj\x86\Debug\VLCTranslationsCounter.csproj.GenerateResource.Cache
